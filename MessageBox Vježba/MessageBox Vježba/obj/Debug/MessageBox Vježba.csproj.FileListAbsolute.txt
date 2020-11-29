@@ -1,0 +1,10 @@
+C:\Users\Laris\source\repos\MessageBox Vježba\MessageBox Vježba\bin\Debug\MessageBox Vježba.exe.config
+C:\Users\Laris\source\repos\MessageBox Vježba\MessageBox Vježba\bin\Debug\MessageBox Vježba.exe
+C:\Users\Laris\source\repos\MessageBox Vježba\MessageBox Vježba\bin\Debug\MessageBox Vježba.pdb
+C:\Users\Laris\source\repos\MessageBox Vježba\MessageBox Vježba\obj\Debug\MessageBox Vježba.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\MessageBox Vježba\MessageBox Vježba\obj\Debug\MessageBox_Vježba.Form1.resources
+C:\Users\Laris\source\repos\MessageBox Vježba\MessageBox Vježba\obj\Debug\MessageBox_Vježba.Properties.Resources.resources
+C:\Users\Laris\source\repos\MessageBox Vježba\MessageBox Vježba\obj\Debug\MessageBox Vježba.csproj.GenerateResource.cache
+C:\Users\Laris\source\repos\MessageBox Vježba\MessageBox Vježba\obj\Debug\MessageBox Vježba.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\MessageBox Vježba\MessageBox Vježba\obj\Debug\MessageBox Vježba.exe
+C:\Users\Laris\source\repos\MessageBox Vježba\MessageBox Vježba\obj\Debug\MessageBox Vježba.pdb
